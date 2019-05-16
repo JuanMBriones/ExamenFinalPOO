@@ -1,0 +1,7 @@
+C:\Users\A00825852\source\repos\FinalProb3\FinalProb3\bin\Debug\FinalProb3.exe.config
+C:\Users\A00825852\source\repos\FinalProb3\FinalProb3\bin\Debug\FinalProb3.exe
+C:\Users\A00825852\source\repos\FinalProb3\FinalProb3\bin\Debug\FinalProb3.pdb
+C:\Users\A00825852\source\repos\FinalProb3\FinalProb3\obj\Debug\FinalProb3.csprojAssemblyReference.cache
+C:\Users\A00825852\source\repos\FinalProb3\FinalProb3\obj\Debug\FinalProb3.csproj.CoreCompileInputs.cache
+C:\Users\A00825852\source\repos\FinalProb3\FinalProb3\obj\Debug\FinalProb3.exe
+C:\Users\A00825852\source\repos\FinalProb3\FinalProb3\obj\Debug\FinalProb3.pdb
